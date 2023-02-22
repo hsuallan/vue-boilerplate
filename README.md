@@ -2,6 +2,16 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## Features
+Vue3  
+Vue Router  
+Piana  
+
+cypress:  for e2e testing
+Tailwindcss: Tailwindcss style
+Axios: Http client
+swagger-typescript-api: generate api from openApi.json
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
@@ -65,4 +75,10 @@ npm run test:e2e
 
 ```sh
 npm run lint
+```
+
+### Run Generate api type
+
+```sh
+npm run gen-tyoe
 ```
