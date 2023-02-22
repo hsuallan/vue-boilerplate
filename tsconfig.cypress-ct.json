@@ -6,7 +6,6 @@
     "src/**/*.vue",
     "cypress/support/component.*",
     "cypress/support/commands.ts",
-    "api",
   ],
   "exclude": [],
   "compilerOptions": {
